@@ -6,6 +6,7 @@
   },
   "prettier": "tomer/prettier",
   "scripts": {
+    "prepare": "tomer install",
     "format": "tomer format",
     "lint": "tomer lint"
   },
